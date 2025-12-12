@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 361d2b0e3e2d16f45853e54267539c23
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hurtSprite: {fileID: 21300000, guid: 4bb4e42bc916e7c4d8a9c95274bd3d20, type: 3}
+  - deathSprite: {fileID: 21300000, guid: e729fafa407db5749a4eb7607dc724a9, type: 3}
+  - idleSprite: {fileID: 21300000, guid: 08732ec6f77160a4a90ffd657af3851b, type: 3}
+  - drink1Sprite: {fileID: 21300000, guid: 316e79aba9265374ba15c503452cd08d, type: 3}
+  - drink2Sprite: {fileID: 21300000, guid: cc6d6e211de8b5c47b4cdc69c3425c3f, type: 3}
+  - drink3Sprite: {fileID: 21300000, guid: 59b8ca21e2b20f84ab07cfbd9aa67224, type: 3}
+  - wingsSprite: {fileID: 21300000, guid: ef5765c66af1f0c47a5a390a90313a07, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

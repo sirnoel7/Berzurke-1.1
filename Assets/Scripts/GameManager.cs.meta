@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2d7947411dec2364c899fbee0e0f0b1a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {fileID: 4134772411672498376, guid: 3b2fa54d16ee6e641a86da343bcd9f1f, type: 3}
+  - highScoreText: {instanceID: 0}
+  - fullHeartSprite: {fileID: 21300000, guid: f2c7094ccf8c42f4c94bc8f6b1f18884, type: 3}
+  - emptyHeartSprite: {fileID: 21300000, guid: 2136a887973f02c479bf5000ddf2e931, type: 3}
+  - redBullPrefab: {fileID: 1323722991421715438, guid: c47a50adf0b926b458b0464f65aec1ee, type: 3}
+  - wingsText: {fileID: 2213164551884758636, guid: 70e995565d0e3ef41b038f45b3219c39, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

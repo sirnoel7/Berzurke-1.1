@@ -1,0 +1,39 @@
+# =============== #
+# Unity Generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# Unity cache
+Sysinfo/
+
+# ===================================== #
+# Visual Studio / Rider / IDE generated #
+# ===================================== #
+.vs/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# JetBrains Rider
+.idea/
+*.DotSettings
+
+# ========== #
+# OS Files   #
+# ========== #
+.DS_Store
+Thumbs.db
